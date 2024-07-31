@@ -2,3 +2,16 @@ baseURL: http://neyperea.me/labor/
 languageCode: en-us
 title: "Labores diarias de mantenimiento"
 theme: m10c
+
+params:
+  author: "nperea75Dev"
+  authorImage: "images/archieveInlayout.png"
+  description: "la disciplina vencerá a la inteligencia."
+
+
+
+menu:
+  main:
+    - name: "About"
+      url: "/about/"
+      weight: 2
