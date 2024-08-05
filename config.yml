@@ -8,20 +8,19 @@ params:
   avatar: "images/avatar.png"
   description: "la disciplina vencerá a la inteligencia."
 
-
-
-menu:
-  main:
-   - name: "Home"
-      url: "/home/"
-      weight: 1
-  main:   
-    - name: "Tags"
-      url: "/tags/"
-      weight: 2
+menu:    
   main:
     - name: "About"
       url: "/about/"
       weight: 3
+
+  #main:
+   #- name: "Home"
+    #  url: "/home/"
+    #  weight: 1
+  #main:   
+   # - name: "Tags"
+    #  url: "/tags/"
+    #  weight: 2
 
 
