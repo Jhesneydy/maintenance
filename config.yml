@@ -1,4 +1,4 @@
-baseURL: http://neyperea.me/labor/
+baseURL: "http://neyperea.me"
 languageCode: en-us
 title: "Labores diarias de mantenimiento"
 theme: m10c
