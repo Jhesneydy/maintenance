@@ -5,7 +5,8 @@ theme: m10c
 
 params:
   author: "nperea75Dev"
-  authorImage: "/images/avatar.png"
+  #authorImage
+avatar: "/images/avatar.png"
   description: "la disciplina vencerá a la inteligencia."
 
 
