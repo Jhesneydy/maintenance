@@ -12,6 +12,16 @@ params:
 
 menu:
   main:
+   - name: "Home"
+      url: "/home/"
+      weight: 1
+  main:   
+    - name: "Tags"
+      url: "/tags/"
+      weight: 2
+  main:
     - name: "About"
       url: "/about/"
-      weight: 2
+      weight: 3
+
+
